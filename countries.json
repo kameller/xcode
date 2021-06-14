@@ -4,34 +4,33 @@
 		{
 			"name": "USA",
 			"capital": "Washington",
-			"area": "9833520",
-			"population": "331_449_281",
+			"area": 9833520,
+			"population": 331449281,
 			"currency": "United States dollar ($) (USD)"
 		},
 
 		{
 			"name": "Ukraine",
 			"capital": "Kyiv",
-			"area": "603628",
-			"population": "41487960",
+			"area": 603628,
+			"population": 41487960,
 			"currency": "Hryvnia (₴) (UAH)"
 		},
         
-		
-		{
-		    "name": "UK",
-		    "capital": "London",
-		    "area": "242495",
-		    "population": "67_886_004",
-		    "currency": "Pound sterling (GBP)"
-		},
-
-		{
-		    "name": "Japan",
-		    "capital": "Tokyo",
-		    "area": "377975",
-		    "population": "125_360_000",
-		    "currency": "Japanese yen (¥)"
-		},
-		]
+        {
+            "name": "UK",
+            "capital": "London",
+            "area": 242495,
+            "population": 67886004,
+            "currency": "Pound sterling (GBP)"
+        },
+        
+        {
+            "name": "Japan",
+            "capital": "Tokyo",
+            "area": 377975,
+            "population": 125360000,
+            "currency": "Japanese yen (¥)"
+        },
+	]
 }
